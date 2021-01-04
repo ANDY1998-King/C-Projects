@@ -1,2 +1,1 @@
-# C-Projects
-this is c pojects
+# C Projects
