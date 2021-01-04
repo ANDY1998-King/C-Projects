@@ -20,7 +20,7 @@ switch(choice)
 {
 
 
-case 1:
+case 1: 
         printf("\nEnter Loan Amount: ");
         scanf("%f",&principal);
 
